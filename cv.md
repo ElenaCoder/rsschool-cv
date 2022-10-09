@@ -47,3 +47,6 @@ function solution(str){
   return result;
 }
 ```
+
+## Experience
+- Audit consultant, PWC, 1,5 years, 2009
