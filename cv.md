@@ -50,3 +50,13 @@ function solution(str){
 
 ## Experience
 - Audit consultant, PWC, 1,5 years, 2009
+
+## Education
+- **Open University of Applied Sciences (Metropolia)**, 2021, Helsinki
+- Open online courses (**University of Helsinki**), 2021, Helsinki
+- **Vocational qualification in Information and Communications Technology (Omnia)**
+ Software Developer, 2021-2023, Helsinki
+- **Integrational education, Finnish language and working life (Taitotalo)**
+ 2020-2021, Helsinki
+- **National Research University of Electronic Technology (MIET)**
+Specialist in Mathematics, Applied Mathematics, 2005-2010, Moscow
