@@ -1,3 +1,1 @@
-# rsschool-cv
-
-https://ElenaCoder.github.io/rsschool-cv/cv 
+[Elena Golovanova](ttps://ElenaCoder.github.io/rsschool-cv/cv)
