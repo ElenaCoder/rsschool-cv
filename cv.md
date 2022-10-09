@@ -20,3 +20,30 @@ I am a software development student at Omnia college in Finland. I have been liv
 - Figma
 - IDEs - VS Code, PyCharm, NetBeans
 - Agile Frameworks – Scrum, Kanban, XP, FDD
+
+## Code examples
+#### Description: 
+Task “Split Strings” from Codewars.com site:
+Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').
+**Examples**:
+```
+> 'abc' =>  ['ab', 'c_']
+- 'abcdef' => ['ab', 'cd', 'ef']
+```
+#### Code:
+```
+function solution(str){
+  const len = str.length;
+  const result = [];
+  
+  if(len % 2 !== 0){
+     str += "_";
+     }
+   
+  for(let i = 0; i < len; i=i+2){
+    result.push(str.slice(i,i+2));
+  }
+  
+  return result;
+}
+```
