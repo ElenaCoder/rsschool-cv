@@ -60,3 +60,8 @@ function solution(str){
  2020-2021, Helsinki
 - **National Research University of Electronic Technology (MIET)**
 Specialist in Mathematics, Applied Mathematics, 2005-2010, Moscow
+
+## Languages
+- **Russian** (native)
+- **English** (c1) – Full-time studying in English language for 1,5 years
+- **Finnish** (b2) – National Certificate of Language Proficiency
