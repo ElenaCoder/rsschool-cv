@@ -1,1 +1,1 @@
-https://ElenaCoder.github.io/rsschool-cv/cv
+https://ElenaCoder.github.io/rsschool-cv
