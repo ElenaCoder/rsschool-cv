@@ -98,8 +98,18 @@ main li {
   margin: 5px 35px;
 }
 
-.contacts li i {
+.contacts i {
   margin: 0 25px 0 0;
+}
+
+i.fa-discord{
+  font-size: 24px;
+}
+i.fa-github{
+  font-size: 34px;
+}
+i.fa-linkedin-square{
+  font-size: 32px;
 }
 
 .contacts a {
@@ -131,6 +141,9 @@ main :not(.contacts) ul {
 .right-column .about-myself .sub-header {
   margin-top: 0;
 }
+.sub-header i {
+  font-size: 36px;
+}
 
 .about-myself p {
   margin-bottom: 10px;
@@ -157,6 +170,10 @@ main :not(.contacts) ul {
 /*--RIGHT COLUMN: ABOUT MYSELF--*/
 
 /*RIGHT COLUMN: EDUCATION*/
+.education i {
+  font-size: 36px;
+}
+
 .education p {
   margin-left: 45px;
 }
@@ -167,6 +184,10 @@ main :not(.contacts) ul {
 /*--RIGHT COLUMN: EDUCATION--*/
 
 /*RIGHT COLUMN: EXPERIENCE*/
+.experience i {
+  font-size: 36px;
+}
+
 .experience p,
 .duties-list {
   margin-left: 45px;
@@ -182,6 +203,10 @@ main :not(.contacts) ul {
 /*--RIGHT COLUMN: EXPERIENCE--*/
 
 /*RIGHT COLUMN: CODE*/
+.code-example i {
+  font-size: 36px;
+}
+
 .code-example p {
   margin-left: 45px;
 }
@@ -215,6 +240,12 @@ footer a {
   text-decoration: none;
   color: #ffffff;
 }
+
+/*
+footer i {
+  font-size: 36px;
+}
+*/
 
 footer a p {
   padding: 1em;
