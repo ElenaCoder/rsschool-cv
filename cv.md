@@ -1,67 +1,95 @@
-# Elena Golovanova
+https://ElenaCoder.github.io/rsschool-cv
 
-## Contact info
-- **Phone**: +358 40 123 45 46
-- **E-mail**: myaccount@gmail.com
-- **LinkedIn**: [elena-golovanova](https://www.linkedin.com/in/elena-golovanova-a229981b1/)
-- **GitHub**: [ElenaCoder](https://github.com/ElenaCoder)
+----
+# ELENA GOLOVANOVA - Full Stack Developer
 
-## About me
-I am a software development student at Omnia college in Finland. I have been living in Helsinki for 3 years, but I am originally from Moscow. I have a degree in Math (Applied Mathematics). I am highly interested in learning new things in the web development area. My teachers describe me as a self-disciplined and goal-focused person who pushes themselves to achieve success. I have recently joined a self-study education program in Rolling Scopes school with a mentor's support. I believe it will be beneficial for my career and it helps me to achieve corresponding competences for the junior level position.
+## CONTACTS
+- [GitHub](https://github.com/ElenaCoder)
+- [LinkedIn](https://www.linkedin.com/in/elena-golovanova/)
 
-## Skills
-- HTML5
+## SKILLS
+
+### Front-End Development:
 - CSS3 (Flex, Grid, BEM methodology)
-- JavaScript Fundamentals (Metropolia University of Applied Sciences, Stepik, https://www.freecodecamp.org/)
-- Java Basics (University of Helsinki’s massive online course)
-- SQL and Relational DB (Metropolia University of Applied Sciences)
-- Python (three online courses on Coursera and Stepik platforms)
-- CVSs - Git, GitHub, Git Extensions, Git Bash (Omnia and Metropolia courses)
-- Figma
+- HTML5
+- JavaScript (ES6+, DOM manipulation, Promises, Async/Await, OOP concepts)
+- React Fundamentals
+- TypeScript
+- Bootstrap
+
+### Back-End Development:
+- Node.js
+- Express.js
+- REST API principles
+- NoSQL (e.g., MongoDB)
+- SQL & Relational DBs (e.g., PostgreSQL)
+- JSON Web Token (JWT)
+
+### Version Control and Collaboration:
+- Git and GitHub
+- Git Extensions
+- Git Bash
+
+### Build Tools and Package Managers:
+- npm
+- Webpack
+
+### Testing:
+- Unit testing with Jest
+- Mocha (JavaScript Testing Framework)
+- API Testing with Postman and cURL
+
+### Web Development Tools:
+- Figma (for design collaboration)
 - IDEs - VS Code, PyCharm, NetBeans
-- Agile Frameworks – Scrum, Kanban, XP, FDD
 
-## Code examples
-#### Description: 
-Task “Split Strings” from Codewars.com site:
-Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('_').
-**Examples**:
-```
-> 'abc' =>  ['ab', 'c_']
-- 'abcdef' => ['ab', 'cd', 'ef']
-```
-#### Code:
-```
-function solution(str){
-  const len = str.length;
-  const result = [];
-  
-  if(len % 2 !== 0){
-     str += "_";
-     }
-   
-  for(let i = 0; i < len; i=i+2){
-    result.push(str.slice(i,i+2));
-  }
-  
-  return result;
-}
-```
+### Other Programming Languages:
+- Java
+- Python
 
-## Experience
-- Audit consultant, PWC, 1,5 years, 2009
+### Agile Frameworks:
+- Scrum
+- Kanban
 
-## Education
-- **Open University of Applied Sciences (Metropolia)**, 2021, Helsinki
-- Open online courses (**University of Helsinki**), 2021, Helsinki
-- **Vocational qualification in Information and Communications Technology (Omnia)**
- Software Developer, 2021-2023, Helsinki
-- **Integrational education, Finnish language and working life (Taitotalo)**
- 2020-2021, Helsinki
-- **National Research University of Electronic Technology (MIET)**
-Specialist in Mathematics, Applied Mathematics, 2005-2010, Moscow
+## LANGUAGES
+- English (C1, Professional working proficiency)
+- Finnish (B2, National Certificate of Language Proficiency - YKI certificate)
+- Russian (Native)
 
-## Languages
-- **Russian** (native)
-- **English** (c1) – Full-time studying in English language for 1,5 years
-- **Finnish** (b2) – National Certificate of Language Proficiency
+## ABOUT MYSELF
+As a dedicated student of software development at Omnia College and Metropolia Open University in Finland, I am deeply passionate about coding and technology. Drawing from my degree in Applied Mathematics, I bring a unique analytical perspective to my studies, infusing creativity and innovation into every web development project I undertake.
+
+My teachers and peers describe me as a self-disciplined and goal-focused individual, who consistently pushes themselves to achieve excellence. I am known for my determination, perseverance, and ability to adapt to changing circumstances. I am highly motivated to learn new things, explore cutting-edge technologies, and create impactful web applications that have a positive impact on people's lives.
+
+With a keen eye for detail and a passion for clean, efficient code, I am committed to delivering high-quality work and continuously improving my skills as a software developer. I am excited about the endless possibilities that web development offers and eager to make a meaningful contribution to the field through my dedication, creativity, and hard work.
+
+## EDUCATION
+- **Open University of Applied Sciences (Metropolia), Helsinki**
+  - 2021 - Present
+  - Completed 150 credits towards the Information Technology Program.
+
+- **Omnia College, Helsinki**
+  - 2021 - Present
+  - Vocational qualification in Information and Communications Technology.
+
+- **Taitotalo College, Helsinki**
+  - 2020 - 2021
+  - Integrational education, Finnish language, and working life.
+
+- **National Research University of Electronic Technology (MIET), Moscow**
+  - 2005-2010
+  - Specialist in Mathematics, Applied Mathematics.
+
+## EXPERIENCE
+
+### Front-end Developer, The Rolling Scopes School
+- 6 months, Oct 2022 - Mar 2023
+- Completed a Front-end Development training program at Rolling Scope school, including mentor support and technical interviews. Ranked 21st out of 2000 students based on performance in tests, projects, and interviews.
+
+### Audit Consultant in the Banking Industry, PricewaterhouseCoopers
+- 1.5 years, 2009
+- Worked in the Systems and Process Assurance (SPA) department, evaluating controls in financial and IT processes. Responsibilities included reviews of financial and operational applications, database security controls, IT general controls, infrastructure security, and project assurance services.
+
+## PROJECT EXAMPLES
+- Study-related projects can be found by clicking [here](https://elenacoder.github.io/personal-portfolio-webpage/).
+---
