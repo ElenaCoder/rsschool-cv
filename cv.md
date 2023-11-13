@@ -1,5 +1,3 @@
-https://ElenaCoder.github.io/rsschool-cv
-
 ----
 # ELENA GOLOVANOVA - Full Stack Developer
 
